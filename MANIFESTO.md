@@ -32,15 +32,11 @@ principles around which we're all aligned that form the ethos of our community.
 Below is a proposal for our principles, most of which were defined at the
 beginning of the program when we first met.
 
-1. Be optimistic
-2. Actively communicate
-3. Be open to new ideas and disagreements
-4. Be the person in the arena
-5. Keep accountable, maintain consistency
-6. Invest in each other -- give before you take
-7. Be curious -- have an insatiable love for learning
-8. Live in the future, then build what's missing
-9. Lean into the unknown
+1. **Give awesome to get awesome** — invest in each other and the program
+2. **Be curious** — have an insatiable love for learning, be open to new ideas and oppositions to your beliefs
+3. **Live in the future, build what's missing** — work on projects that are worth your time, dive fearlessly into the unknown, be the person in the arena
+4. **Stay engaged** — communicate actively, keep accountable, maintain consistency
+5. **Leave your ego at the door** — Stay humble.
 
 These values and what they mean to us should change with time, as we bring
 in new members, and as we discover what's important to us as a group.
