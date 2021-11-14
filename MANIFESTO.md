@@ -1,5 +1,5 @@
 # Floodgate Outliers
-## Alumni Community Operating Manual
+## Community Operating Manual
 ### Introduction
 Floodgate has invested a massive amount of time, energy, resources, and belief into
 starting this community, and for that, we're all immensely grateful.
